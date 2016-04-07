@@ -1,4 +1,4 @@
-# Développeurs cherche Développeur
+# Développeurs cherchent Développeur
 
 ### Soixante circuits recrute des développeurs.
 
