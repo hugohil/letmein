@@ -19,12 +19,15 @@ Toi: Tu es un développeur confirmé avec le sens du détail, la capacité d’a
 > \#savoir-faire #perpetual-learning #platon
 
 Nous: Nous sommes structuré pour être une équipe cohérente sur notre typologie de projet. Chaque membre est encouragé à développer ses capacités, son autonomie et son savoir-faire, dans un état d’esprit inspiré des compagnons.
+
 > @dragana @Art2B @manon @massamba @marie @hugohil @alice @philippe-henri @sofia
 
 > \#ux #ui #css #sass #strat-killer #dev #DA #creative #dev #prod-killer #writing # motion
+
 ```
 Toi: Tu n’as pas qu’une seule corde à ton arc et tu aimes penser out of the box.
 ```
+
 > \#curieux
 
 Nous: Nous n’avons pas de chapelle, nous codons avec vim, sublime, atom. Nous développons en js, en c++, en bash. Nous recherchons toujours la technologie la plus appropriée au problème à résoudre. Nous partageons avec la communauté nos [outils](https://github.com/soixantecircuits/awesome-app-js).
