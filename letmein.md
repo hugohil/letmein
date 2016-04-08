@@ -39,11 +39,12 @@ Toi: Tu es bon dans un langage mais tu n’y es pas attaché comme un galérien 
 > \#java #as3
 
 
-Toi et nous: Depuis 8 ans, nous préparons [des installations sur-mesure pour nos clients](http://behance.com/soixantecircuits).
-> \#dior #adidas #hermès #coca-cola #twitter #yves-saint-laurent #virgin #kenzo
+Depuis 8 ans, nous préparons [des installations sur-mesure pour nos clients](http://behance.com/soixantecircuits).
+> \#dior #adidas #hermès #coca-cola #twitter #yves-saint-laurent #virgin #kenzo
+
 Et aujourd’hui, nous avons besoin de toi pour développer un produit sans client.
 Nous allons avoir besoin de gérer une infrastructure web, d’une app mobile et desktop, de facetracking, de coder du motion design seamless, d’effets spéciaux en webGL, de sysadmin,  d’échanges animés, de point du matin consensuels, de jolies lignes de codes, de lueurs d’espoirs, de fêter le lancement !
-> \# CodeIsComing
+> \#CodeIsComing
 
 On sait, impossible de faire tout ça, alors :
 
